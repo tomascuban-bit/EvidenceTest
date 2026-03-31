@@ -1,0 +1,16 @@
+{
+  "name": "evidence-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "evidence dev",
+    "build": "evidence build",
+    "preview": "evidence preview"
+  },
+  "dependencies": {
+    "@evidence-dev/evidence": "latest"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
